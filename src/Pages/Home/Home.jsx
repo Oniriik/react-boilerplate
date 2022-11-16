@@ -1,5 +1,5 @@
-import * as Styled from './styled';
+import { Boilerplate } from '../../Components';
 
 export const Home = () => {
-  return <Styled.Page>React boilerplate</Styled.Page>;
+  return <Boilerplate />;
 };
